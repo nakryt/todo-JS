@@ -1,0 +1,8 @@
+.Trash {
+    cursor: pointer;
+    height: auto;
+}
+
+.Trash svg {
+    fill: #dd2629;
+}

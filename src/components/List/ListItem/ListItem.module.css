@@ -1,0 +1,27 @@
+.ListItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 0;
+    padding: 7px 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.ListItem > div {
+    margin-right: 20px;
+}
+
+.ListItemEdit {
+    width: 100%;
+}
+
+.ListItemOptions {
+    display: flex;
+    margin-left: 5px;
+}
+
+.ListItem.ListItemImportant {
+    font-weight: bold;
+    color: #ED8A19;
+}

@@ -1,0 +1,13 @@
+.Star {
+    margin-right: 15px;
+    cursor: pointer;
+    height: auto;
+}
+
+.Star svg {
+    fill: #b4b4b4;
+}
+
+.Star.StarActive svg {
+    fill: #ED8A19;
+}

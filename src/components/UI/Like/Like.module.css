@@ -1,0 +1,16 @@
+.Like {
+    position: relative;
+    cursor: pointer;
+    margin-right: 15px;
+    height: auto;
+}
+
+.Like svg {
+    position: absolute;
+    top: 2px;
+    fill: #b4b4b4;
+}
+
+.Like.LikeActive svg {
+    fill: #D75A4A;
+}

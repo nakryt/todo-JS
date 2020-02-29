@@ -1,0 +1,11 @@
+.Check {
+    top: 4px;
+    height: auto;
+    position: absolute;
+    right: 50px;
+    cursor: pointer;
+}
+
+.Check svg {
+    fill: #39c322;
+}

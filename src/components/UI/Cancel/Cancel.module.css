@@ -1,0 +1,10 @@
+.Cancel {
+    position: absolute;
+    right: 20px;
+    top: 4px;
+    cursor: pointer;
+}
+
+.Cancel svg {
+    fill: #ff5e54;
+}

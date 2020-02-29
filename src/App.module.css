@@ -1,0 +1,10 @@
+.App {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    flex-grow: 1;
+    background-color: #e7e3f1;
+    padding-top: 100px;
+    box-sizing: border-box;
+}
+

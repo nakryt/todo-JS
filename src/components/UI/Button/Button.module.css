@@ -1,0 +1,29 @@
+.Button {
+    margin-left: 5px;
+    padding: 8px 10px;
+    border: 2px solid #6a8ac5;
+    border-radius: 5px;
+    background-color: #6a8ac5;
+    color: #ffffff;
+    font-family: inherit;
+    font-size: 1rem;
+    text-transform: uppercase;
+    cursor: pointer;
+    outline: none;
+}
+
+.Button:active{
+    box-shadow: inset 1px 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.ButtonSecondary {
+    border: 2px solid #4b4b4b;
+    color: #4b4b4b;
+    background-color: transparent;
+}
+
+.ButtonSecondary:hover {
+    color: #ffffff;
+    background-color: #4b4b4b;
+}
+
